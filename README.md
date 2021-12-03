@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Java Junior Full Stack
 - 🌱 Cursando Bootcamp Na Generation
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Zarps">
