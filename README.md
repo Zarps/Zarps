@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 Desenvolvedor Java Junior Full Stack
+- 🔭 Desenvolvedor Web Java Junior Full Stack
 - 🌱 Cursando Bootcamp Na Generation
 - 😄 Pronomes: Ele/Dele
+
+-⚡Lembre-se: seu foco determina sua realidade!⚡
 
 
 <h4 align="center">
