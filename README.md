@@ -8,6 +8,7 @@
 
 <h4 align="center">
 
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
   
 
@@ -34,12 +35,13 @@
   <img align="center" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
   ##
-  
+  </div>
 <div>
   
   ## Entre em contato comigo. 😉
 
-<div> 
+</div> 
+  <div>
  
   <a href = "mailto:wes.alves.rios@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesleyrioos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
