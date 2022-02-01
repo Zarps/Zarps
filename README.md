@@ -1,6 +1,5 @@
 ### Olá, eu sou o Wesley Rios, Desenvolvedor Web FullStack! 👋
 
-- 🔭 Desenvolvedor Web Java Junior Full Stack
 - 🌱 Cursando Bootcamp Na Generation
 - 😄 Pronomes: Ele/Dele
 
