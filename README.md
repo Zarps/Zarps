@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wesley Rios, Desenvolvedor Web FullStack! 👋
 
-- 🌱 Cursando Bootcamp Na Generation
+- 🌱 Realizou Bootcamp Na Generation
 - 😄 Pronomes: Ele/Dele
 
 -⚡Lembre-se: seu foco determina sua realidade!⚡
