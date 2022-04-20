@@ -2,6 +2,7 @@
 
 - 🌱 Realizou Bootcamp Na Generation
 - 😄 Pronomes: Ele/Dele
+- 🏆 Realizando cursos e bootcamps pela Alura e pela DIO!.
 
 -⚡Lembre-se: seu foco determina sua realidade!⚡
 
